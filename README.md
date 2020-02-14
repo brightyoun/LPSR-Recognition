@@ -22,7 +22,7 @@ Although most current license plate (LP) recognition applications have been sign
 <p align='center'><img src='./visapp_004.jpg' height="300px"/></p>
 
 # References
-[1] Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+[1] Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR). 2017.
 
 # Citation
 **If you find the resource useful, please cite the following:**
@@ -34,9 +34,3 @@ Although most current license plate (LP) recognition applications have been sign
   year={2019}
    }
 ```
-
-# References
-   - [ Perceptual Losses for Real-Time Style Transfer and Super-Resolution] (https://link.springer.com/chapter/10.1007/978-3-319-46475-6_43)
-   
-# Contacts
-   - Email : brightyoun@gist.ac.kr

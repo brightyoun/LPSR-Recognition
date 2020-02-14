@@ -1,5 +1,6 @@
 # Practical License Plate Recognition in Unconstrained Surveillance Systems with Adversarial Super-Resolution (VISAPP'19)
 [[pdf](https://www.researchgate.net/publication/331783480_Practical_License_Plate_Recognition_in_Unconstrained_Surveillance_Systems_with_Adversarial_Super-Resolution)]
+
 Younkwan Lee, Jiwon Jun, Yoojin Hong, Moongu Jeon; EECS, Gwangju Institute of Science and Technology (GIST)
 
 # Abstract

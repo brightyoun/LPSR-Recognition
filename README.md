@@ -16,3 +16,18 @@ Although most current license plate (LP) recognition applications have been sign
    
 # Results
 ## Example in GIST-LP Dataset
+<p align='center'><img src='./visapp_table.jpg' height="200px"/></p>
+
+# References
+[1] Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+
+# Citation
+**If you find the resource useful, please cite the following:**
+'''
+@article{lee2019practical,
+  title={Practical License Plate Recognition in Unconstrained Surveillance Systems with Adversarial Super-Resolution},
+  author={Lee, Younkwan and Jun, Jiwon and Hong, Yoojin and Jeon, Moongu},
+  journal={arXiv preprint arXiv:1910.04324},
+  year={2019}
+}
+'''

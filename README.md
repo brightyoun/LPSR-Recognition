@@ -16,7 +16,7 @@ Although most current license plate (LP) recognition applications have been sign
    
 # Results
 ## Example in GIST-LP Dataset
-<p align='center'><img src='./visapp_table.jpg' height="200px"/></p>
+<p align='center'><img src='./visapp_table.jpg' height="600px"/></p>
 
 # References
 [1] Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.

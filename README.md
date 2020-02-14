@@ -6,3 +6,13 @@ Although most current license plate (LP) recognition applications have been sign
 
 <p align='center'><img src='./visapp_006.jpg' height="200px"/></p>
 <p align='center'><img src='./visapp_002.jpg' height="200px"/></p>
+
+# Requirements
+   - python 3.5.2
+   - opencv 3.4.2
+   - numpy 1.14.3
+   - argparse 1.1
+   - tensorflow_gpu >=1.4.0 & < 2.0
+   
+# Results
+## Example in GIST-LP Dataset

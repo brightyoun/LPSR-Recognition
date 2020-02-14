@@ -34,3 +34,9 @@ Although most current license plate (LP) recognition applications have been sign
   year={2019}
    }
 ```
+
+# References
+   - [ Perceptual Losses for Real-Time Style Transfer and Super-Resolution] (https://link.springer.com/chapter/10.1007/978-3-319-46475-6_43)
+   
+# Contacts
+   - Email : brightyoun@gist.ac.kr
